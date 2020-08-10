@@ -1,0 +1,18 @@
+c:\users\燕竹\documents\visual studio 2013\Projects\C0804\C0804\bin\Debug\C0804.exe.config
+C:\Users\燕竹\Documents\Visual Studio 2013\Projects\C0804\C0804\bin\Debug\C0804.exe
+C:\Users\燕竹\Documents\Visual Studio 2013\Projects\C0804\C0804\bin\Debug\C0804.pdb
+C:\Users\燕竹\Documents\Visual Studio 2013\Projects\C0804\C0804\obj\Debug\C0804.csprojResolveAssemblyReference.cache
+C:\Users\燕竹\Documents\Visual Studio 2013\Projects\C0804\C0804\obj\Debug\C0804.Form1.resources
+C:\Users\燕竹\Documents\Visual Studio 2013\Projects\C0804\C0804\obj\Debug\C0804.Properties.Resources.resources
+C:\Users\燕竹\Documents\Visual Studio 2013\Projects\C0804\C0804\obj\Debug\C0804.csproj.GenerateResource.Cache
+C:\Users\燕竹\Documents\Visual Studio 2013\Projects\C0804\C0804\obj\Debug\C0804.exe
+C:\Users\燕竹\Documents\Visual Studio 2013\Projects\C0804\C0804\obj\Debug\C0804.pdb
+C:\Users\靖同\Desktop\平台之間的跳躍\C0804\bin\Debug\C0804.exe.config
+C:\Users\靖同\Desktop\平台之間的跳躍\C0804\obj\Debug\C0804.exe
+C:\Users\靖同\Desktop\平台之間的跳躍\C0804\obj\Debug\C0804.pdb
+C:\Users\靖同\Desktop\平台之間的跳躍\C0804\bin\Debug\C0804.exe
+C:\Users\靖同\Desktop\平台之間的跳躍\C0804\bin\Debug\C0804.pdb
+C:\Users\靖同\Desktop\平台之間的跳躍\C0804\obj\Debug\C0804.csprojResolveAssemblyReference.cache
+C:\Users\靖同\Desktop\平台之間的跳躍\C0804\obj\Debug\C0804.Form1.resources
+C:\Users\靖同\Desktop\平台之間的跳躍\C0804\obj\Debug\C0804.Properties.Resources.resources
+C:\Users\靖同\Desktop\平台之間的跳躍\C0804\obj\Debug\C0804.csproj.GenerateResource.Cache
